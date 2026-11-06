@@ -68,4 +68,4 @@
 | `git merge branch-name` | Attempts to merge another branch. |
 | `git status` | Identifies conflicting files. |
 | `git add file.txt` | Marks the conflict as resolved after editing. |
-| `git commit` | Completes the merge commit. |
+| `git commit` | Completes the merge commit. |Documentation updated.
